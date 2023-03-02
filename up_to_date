@@ -1,0 +1,8 @@
+ECHO is on.
+cd 0x01-git 
+echo 
+git add 
+git commit -m "message" 
+git push orgin main 
+git push origin update_script 
+git checkout -b update_script 
