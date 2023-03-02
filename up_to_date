@@ -6,3 +6,6 @@ git commit -m "message"
 git push orgin main 
 git push origin update_script 
 git checkout -b update_script 
+git status 
+gh pr ls 
+gh pr merge {PULL-NUMBER} 
