@@ -2,4 +2,4 @@
 project 0x01-git
 ECHO is on.
 ECHO is on.
-ALX SChool is awesom
+ALX SChool is awesome
